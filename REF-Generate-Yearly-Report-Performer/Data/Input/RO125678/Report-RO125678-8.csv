@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+611661,"Concierge Services",209749,41949.8,251699,USD,2017-08-22
+694453,"Professional Services",215491,43098.2,258589,CAD,2017-08-08
+795906,"Various paper supplies",222340,44468,266808,RON,2017-08-02
+704649,"Concierge Services",139691,27938.2,167629,RON,2017-08-18

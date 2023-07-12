@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+614111,"Concierge Services",293713,58742.6,352456,EUR,2017-11-15
+791356,"Professional Services",257161,51432.2,308593,USD,2017-11-28
+289611,"Various paper supplies",229362,45872.4,275234,RON,2017-11-14
+846767,"IT Support",241642,48328.4,289970,EUR,2017-11-19

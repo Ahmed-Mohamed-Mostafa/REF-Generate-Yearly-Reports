@@ -1,0 +1,6 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+254794,"IT Support",56738,11347.6,68085.6,USD,2017-09-28
+207464,"Beverages and Catering",255153,51030.6,306184,USD,2017-09-04
+225535,"Concierge Services",211884,42376.8,254261,USD,2017-09-20
+995870,"Various paper supplies",33339,6667.8,40006.8,USD,2017-09-08
+702572,"Various paper supplies",89236,17847.2,107083,RON,2017-09-17
